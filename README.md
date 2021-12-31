@@ -1,5 +1,5 @@
 # sap-api-integrations-purchase-order-reads-rmq-kube
-sap-api-integrations-purchase-order-reads-rmq-kube は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で 購買受注データを取得するマイクロサービスです。    
+sap-api-integrations-purchase-order-reads-rmq-kube は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で 購買発注データを取得するマイクロサービスです。    
 sap-api-integrations-purchase-order-reads-rmq-kube には、サンプルのAPI Json フォーマットが含まれています。   
 sap-api-integrations-purchase-order-reads-rmq-kube は、オンプレミス版である（＝クラウド版ではない）SAPS4HANA API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。   
 https://api.sap.com/api/OP_API_PURCHASEORDER_PROCESS_SRV_0001/overview   
